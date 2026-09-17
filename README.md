@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Olá! Eu sou o Matheus Campregher
+# 👋 Olá! Eu sou o Matheus Scomação Campregher
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+Python+%F0%9F%90%8D;Estudando+SQL+%F0%9F%97%84%EF%B8%8F;Construindo+meus+primeiros+projetos+%F0%9F%9A%80" alt="Animação de texto">
 
@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! Meu nome é **Matheus Campregher**, tenho 15 anos e sou estudante de **Desenvolvimento de Sistemas**.
+Olá! Meu nome é **Matheus Scomação Campregher**, tenho 15 anos e sou estudante de **Desenvolvimento de Sistemas**.
 
 Atualmente estou no **1º DS da Escola Alberto Gomes Veiga**, onde estou começando minha jornada na área de tecnologia e aprendendo os fundamentos necessários para desenvolver meus próprios projetos.
 
